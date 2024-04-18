@@ -11,3 +11,7 @@ $ sudo apt install curl unzip nano
 
 ### How to install the script?
 $ cd 
+
+$ cd ./v2ray
+$ sudo bash ./install-v2ray.sh
+![preview](pic1.png "pic1")
