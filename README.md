@@ -8,3 +8,4 @@ In cases where you have problems working with other v2ray clients, this open sou
 $ sudo apt install curl unzip nano 
 
 ### How to install the script?
+$ cd 
